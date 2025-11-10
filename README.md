@@ -16,3 +16,7 @@ The aim is to establish a solid technical base for future stages, where these ca
 ## Tech Stack
 
 `Pytho`n • `PyTorch` • `OpenCV` • `Hugging Face Transformers` • `Jupyter Notebooks`
+
+## Next Stage: Vision Embeddings Agent (`02-vision-embeddings-agent`)
+
+The focus shifts from perception to representation — learning how to turn visual content into semantic embeddings that can be searched, compared, and reasoned over by AI systems.
