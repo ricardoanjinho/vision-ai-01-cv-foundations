@@ -1,4 +1,4 @@
-# vision-ai / 01-cv-foundations
+# vision-ai / 01 Computer Vision foundations
 
 Stage 1 of an applied research series on vision-enabled AI agents.
 
