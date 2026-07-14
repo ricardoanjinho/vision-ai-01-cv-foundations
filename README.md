@@ -10,7 +10,7 @@ The aim is to establish a solid technical base for future stages, where these ca
 
 1. Understand core computer vision workflows (preprocessing, inference, evaluation).
 2. Work hands-on with PyTorch or TensorFlow and OpenCV.
-3. Experiment with pretrained architectures (ResNet, ViT, YOLOv8).
+3. Experiment with pretrained architectures (ResNet, ViT, YOLOv11/v12) and promptable segmentation with SAM2/SAM3.
 4. Build a modular inference pipeline that can later be extended by agentic reasoning systems.
 
 ## Tech stack
